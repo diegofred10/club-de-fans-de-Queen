@@ -72,10 +72,10 @@
         <section>
             <article id="newsletter">
             <h2>Newsletter</h2>
-            <form>
+            <form onsubmit="return false;">
                 <p>Suscríbete para recibir las últimas novedades &gt;</p>
-                <input type="text" placeholder="Tu email">
-                <input type="button" value="Suscríbeme" id="boton-enviar">
+                <input type="text" placeholder="Tu email" required id="input-email" name="input-email">
+                <input type="submit" value="Suscríbeme" id="boton-enviar" onclick="mostrarEmail();">
             </form>
         </article>
         </section>
@@ -86,6 +86,7 @@
             &copy; Club de fans de Queen - 2022
         </p>
     </footer>
+    <script src="./assets/js/mostrar-usuario.js"></script>
 </body>
 
 </html>
