@@ -12,7 +12,6 @@ const miPortada = document.getElementById("imagen-principal-disco");
 const miTitulo = document.getElementById("h2-principal-disco");
 const miListado = document.getElementById("listado-canciones");
 const cuantasMiniaturas = document.getElementsByClassName("miniatura-fija");
-console.log(cuantasMiniaturas);
 
 let indice = 0;
 
