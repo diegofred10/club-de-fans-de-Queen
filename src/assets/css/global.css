@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 900px;
+    min-width: 500px;
+    margin: 0 auto;
+    color: #333333;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #A71e0b;
+}
+
+ul {
+    list-style: none;
+}
+
+h2 {
+    font-size: 3.3em;
+    color: #A71e0b;
+    line-height: 1em;
+    margin: 0 0 0.3em 0;
+    
+}

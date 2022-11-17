@@ -1,0 +1,50 @@
+article {
+    display: flex;
+    width: 100%;
+    height: 450px;
+}
+
+.reflejo {
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+article figure {
+    width: 50%;
+    height: 450px; 
+}
+
+article figure img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+article .texto-article {
+    width: 50%;
+    height: 100%;
+    padding: 3em;
+    position: relative;
+}
+
+.texto-article button {
+    width: 120px;
+    height: 2em;
+    text-align: center;
+    background: #a71e0b;
+    border: 1px solid #a71e0b;
+    border-radius: 10px;
+    color: #ffffff;
+    transition: all 0.4s;
+    position: absolute;
+    bottom: 3em;
+    right: 3em;
+}
+
+.texto-article button:hover {
+    background: #ffffff;
+    color: #a71e0b;
+    letter-spacing: 2px;
+    transform: scale(1.1);
+}
