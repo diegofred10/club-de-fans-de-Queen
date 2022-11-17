@@ -16,6 +16,7 @@ header h1 {
     font-size: 3.5em;
     font-family: 'Cormorant Garamond', serif;
     margin: 0 0 1em 0;
+    text-align: center;
 }
 
 header nav {
