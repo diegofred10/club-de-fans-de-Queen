@@ -37,3 +37,14 @@
     color: #a71e0b;
     padding-left: 4px;
 }
+
+@media (max-width: 750px) {
+    #newsletter form{
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: column;
+        gap: 1em;
+    }
+
+}
