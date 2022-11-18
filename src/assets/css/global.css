@@ -30,3 +30,10 @@ h2 {
     margin: 0 0 0.3em 0;
     
 }
+
+h3 {
+    font-size: 2em;
+    color: #A71e0b;
+    line-height: 1em;
+    margin: 0 0 0.3em 0;
+}
