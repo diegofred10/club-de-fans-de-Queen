@@ -48,3 +48,32 @@ article .texto-article {
     letter-spacing: 2px;
     transform: scale(1.1);
 }
+
+@media (max-width: 750px) {
+    article {
+        display: block;
+        height: auto;
+        margin-bottom: 3em;
+    }
+    .reflejo {
+        display: block;
+    
+    }
+    article figure {
+        width: 100%; 
+    }
+    
+    article .texto-article {
+        width: 100%;
+        height: auto;
+        padding: 1em;
+        position: relative;
+    }
+    .texto-article button {
+        position: relative;
+        bottom: 0;
+        right: 0;
+        margin: 1em auto 0 auto;
+        display: block;
+    }
+}

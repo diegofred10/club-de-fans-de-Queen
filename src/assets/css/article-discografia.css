@@ -53,3 +53,21 @@
     transform: scale(1.1);
 }
 
+@media (max-width: 750px) {
+    #miniaturas-discografia {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 16px;
+        max-width: 660px;
+        margin: 0 auto 9em auto;
+    }
+
+    #miniaturas-discografia .miniatura-disco {
+        width: auto;
+        height: 150px;
+    }
+
+
+}
+
+
