@@ -53,6 +53,10 @@
     transform: scale(1.1);
 }
 
+#miniaturas-discografia .miniatura-disco img.miniatura-activa {
+    filter: grayscale(0%);
+}
+
 @media (max-width: 750px) {
     #miniaturas-discografia {
         display: grid;

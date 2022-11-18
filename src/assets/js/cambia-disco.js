@@ -19,6 +19,14 @@ let canciones = [
 const miPortada = document.getElementById("imagen-principal-disco");
 const miTitulo = document.getElementById("h2-principal-disco");
 const miListado = document.getElementById("listado-canciones");
+const cuantasMiniaturas = document.getElementsByClassName("miniatura-fija");
+
+function estiloMiniatura(queDisco) {
+  for (indice = 0; indice < cuantasMiniaturas.length; indice++) {
+    cuantasMiniaturas[indice].classList.remove("miniatura-activa");
+  }
+  cuantasMiniaturas[queDisco].classList.add("miniatura-activa");
+} 
 
 function cambiaDisco(queDisco) {
   const esteDisco = queDisco - 1;
@@ -29,4 +37,5 @@ function cambiaDisco(queDisco) {
   miPortada.innerHTML = discos[esteDisco][0];
   miTitulo.innerHTML = discos[esteDisco][1];
   miListado.innerHTML = listadoCanciones;
+  estiloMiniatura(esteDisco);
 }
