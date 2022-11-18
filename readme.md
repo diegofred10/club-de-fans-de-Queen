@@ -1,6 +1,6 @@
 # Proyecto Club de fans de Queen
 ## PROYECTO
-<a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-discografia.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-web.jpg" alt="Sketch" width="150"></a>
+<a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-web.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-web.jpg" alt="Proyecto" width="150"></a>
 
 Se nos pide desarrollar una página web sobre nuestro tema favorito.
 Nosotros hemos escogido el grupo de rock Queen.
