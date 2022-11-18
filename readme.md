@@ -9,7 +9,7 @@ Nosotros hemos escogido el grupo de rock Queen.
 ### Sketch, mockup y prototipo
 <a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-sketch.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-sketch.jpg" alt="Sketch" width="150"></a>
 <a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-mockup.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-mockup.jpg" alt="Mockup" width="150"></a>
-<a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo.jpg" alt="Prototipo" width="150"></a>
+<a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-index.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-index.jpg" alt="Prototipo" width="150"></a>
 <a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-index.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-index.jpg" alt="Prototitpo Index" width="150"></a>
 <a href="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-discografia.jpg" target="_blank"><img src="https://yquetecuentas.com/f5/club-de-fans-de-queen/queen-prototipo-discografia.jpg" alt="Prototipo discografía" width="150"></a>
 Realizar el sketch, el mockup y el prototipo de la web, para poder mostrar como se verá y conseguir la aprobación del solicitante.
