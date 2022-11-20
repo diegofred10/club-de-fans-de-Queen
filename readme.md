@@ -32,6 +32,5 @@ Mediante JavaScript, añadimos una serie de funcionalidades a la web:
 - Visual Studio Code, junto a Git Bash, para la creación de los elementos necesarios: documentos HTML, CSS y JavaScript, así como las carpetas necesarias para su organización; y repositorio local.
 - GitHub, para la creación de un repositorio online que nos permitirá mantener un historial de los cambios realizados en al web, recuperar el proyecto desde cualquier dispositivo, así como compartirlo llegado el momento.
 ## EQUIPO
+- [@diegofred10](https://github.com/diegofred10)
 - [@JohnnyRamirezSancho](https://github.com/JohnnyRamirezSancho)
-- [@JohnnyRamirezSancho](https://github.com/JohnnyRamirezSancho)
-
